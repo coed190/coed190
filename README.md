@@ -13,7 +13,6 @@ Coed Developer, 17, Italy! 👾
 ## - 🧠 Tecnologie
 
 [![](https://skillicons.dev/icons?i=js)](https://coed-developer.netlify.app/)
-[![](https://skillicons.dev/icons?i=bun)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=nodejs)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=vite)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=react)](https://coed-developer.netlify.app/)
