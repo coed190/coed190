@@ -15,13 +15,10 @@ Coed Developer, 17, Italy! 👾
 [![](https://skillicons.dev/icons?i=js)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=bun)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=nodejs)](https://coed-developer.netlify.app/)
-<br>
 [![](https://skillicons.dev/icons?i=vite)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=react)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=vue)](https://coed-developer.netlify.app/)
-
 [![](https://skillicons.dev/icons?i=next)](https://coed-developer.netlify.app/)
-<br>
 [![](https://skillicons.dev/icons?i=css)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=tailwind)](https://coed-developer.netlify.app/)
 [![](https://skillicons.dev/icons?i=styledcomponents)](https://coed-developer.netlify.app/)
