@@ -8,7 +8,7 @@ Coed Developer, 17, Italy! 👾
 
 `📚` Eng. de Software
 
-<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezzx&layout=compact&theme=transparent" alt="My Github Stats">
+<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coed190&layout=compact&theme=transparent" alt="My Github Stats">
 
 ## - 🧠 Tecnologias
 
