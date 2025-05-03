@@ -8,7 +8,7 @@ Coed Developer, 17, Italy! 👾
 
 <br>
 
-<img align="center" href="https://coed-developer.netlify.app/" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coed190&layout=compact&theme=transparent" alt="My Github Stats">
+
 
 ## - 🧠 Tecnologie
 
